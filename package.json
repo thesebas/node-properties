@@ -15,9 +15,10 @@
     "node": ">=0.10"
   },
   "devDependencies": {
+    "deepmerge": "^0.2.7",
     "ini": "1.1.x",
-    "speedy": "*",
-    "js-yaml": "2.1.x"
+    "js-yaml": "2.1.x",
+    "speedy": "*"
   },
   "scripts": {
     "test": "node test/parse && node test/stringify"
