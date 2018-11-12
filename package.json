@@ -1,8 +1,14 @@
 {
-  "name": "properties",
-  "version": "1.2.1",
+  "name": "@iamandrewluca/properties",
+  "version": "1.2.2",
   "description": ".properties parser/stringifier",
-  "keywords": ["properties", "ini", "parser", "stringifier", "config"],
+  "keywords": [
+    "properties",
+    "ini",
+    "parser",
+    "stringifier",
+    "config"
+  ],
   "author": "Gabriel Llamas <gagle@outlook.com>",
   "repository": "git://github.com/gagle/node-properties.git",
   "engines": {
